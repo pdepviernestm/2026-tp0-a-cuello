@@ -12,3 +12,5 @@ Tengo 19 años y estoy en el segundo año de esta carrera (aunque me quedan algu
 -  Me gusta el tenis
 -  Tengo un pin de rana
 -  Mi escritora favorita es Agatha Christie
+
+Foto:
