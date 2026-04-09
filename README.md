@@ -13,5 +13,5 @@ Tengo 19 años y estoy en el segundo año de esta carrera (aunque me quedan algu
 -  Tengo un pin de rana
 -  Mi escritora favorita es Agatha Christie (Recomiendo 'El asesinato de Roger Ackroyd' 10/10)
 
-Foto:
+### Foto:
 ![WhatsApp Image 2026-04-02 at 18 37 41](https://github.com/user-attachments/assets/713ffeb0-f837-4cb9-aa7b-7b61b11cacc2)
